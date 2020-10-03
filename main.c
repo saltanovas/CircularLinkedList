@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "sarasas.c"
+#include "list.h"
 
 int main(int argc, char *argv[])
 {
